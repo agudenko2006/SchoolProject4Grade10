@@ -1,2 +1,5 @@
-# SchoolProject4Grade10
-Just uploaded the sources here so our school can find 'em
+# School Project for Grade 10
+
+If you're not from our school, please ignore this repo.
+
+I don't have a license file, I know, just ignore the repo.
